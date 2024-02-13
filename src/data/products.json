@@ -1,0 +1,29 @@
+[
+    {
+        "tittle": "Jabon",
+        "description": "Limpia mucho",
+        "stock": 2,
+        "code": "B435",
+        "thumbnail": [],
+        "price": 220,
+        "id": "f2d38166b1b5"
+    },
+    {
+        "tittle": "Arena",
+        "description": "Para gatos",
+        "stock": 1,
+        "code": "C674",
+        "thumbnail": [],
+        "price": 450,
+        "id": "d43d3d725df8"
+    },
+    {
+        "tittle": "Arroz",
+        "description": "Rico",
+        "stock": 1,
+        "code": "A123",
+        "thumbnail": [],
+        "price": 130,
+        "id": "3ec4078ef3d3"
+    }
+]
